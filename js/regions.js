@@ -89,6 +89,7 @@ const region_list = [
 [ 0, 21,"cn/empire","チャイナ国民連合","Nationalist Goverment of Nanjing","@","国民政府","Kuomintang","@",2980,600,0],
 ["連合指導者","Prime Minister","@"],
 [ 0, 21,"0","ピョン君","Itou Hirobumi","@"],
+[ 21, 32,"m","ジハティー・ジョン","Itou Hirobumi","@"],
 
 ]
 ];
